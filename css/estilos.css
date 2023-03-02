@@ -13,6 +13,7 @@ padding:0
 {
 background:#37488b;
 box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
+<<<<<<< HEAD
 color:#fff;font-weight:700;
 margin:0;
 padding:.5em
@@ -22,6 +23,11 @@ padding:.5em
 {width:20px;
 vertical-align:middle
 }
+=======
+color:#249667;
+font-weight:700;
+margin:0;padding:.5em}
+>>>>>>> footer
 
 #cabecera #tagline
 {
